@@ -1,3 +1,0 @@
-library(ReadMe)
-
-demo(clinton)
