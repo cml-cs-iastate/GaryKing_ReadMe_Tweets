@@ -1,0 +1,5 @@
+setwd("C:/Users/xapponi/Documents/R/win-library/3.5/ReadMe/demofiles/tweets")
+oldwd <- getwd()
+library(ReadMe)
+library(quadprog)
+undergrad.results <- undergrad(sep=',')
