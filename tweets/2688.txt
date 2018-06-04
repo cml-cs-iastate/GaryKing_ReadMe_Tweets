@@ -1,0 +1,1 @@
+@OpenSky_Policy Spending has not been flat. You are normalizing local spending, based largely on property value, using income.#differentlegs
